@@ -1,0 +1,29 @@
+{
+  "name": "cloud-status",
+  "version": "0.0.1",
+  "description": "Enabling you to get service status for different cloud providers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kabess/cloud-status.git"
+  },
+  "keywords": [
+    "cloud",
+    "status",
+    "monitoring",
+    "services",
+    "aws"
+  ],
+  "author": "kabess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kabess/cloud-status/issues"
+  },
+  "dependencies" : {
+    "underscore" : "^1.8.3",
+    "feed-read" : "^0.0.1"
+  }
+}
