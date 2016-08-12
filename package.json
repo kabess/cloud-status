@@ -15,10 +15,7 @@
     "status",
     "monitoring",
     "services",
-    "aws",
-    "azure",
-    "google",
-    "cloud"
+    "aws"
   ],
   "author": "kabess",
   "license": "MIT",
@@ -26,6 +23,7 @@
     "url": "https://github.com/kabess/cloud-status/issues"
   },
   "dependencies" : {
-    "request" : ""
+    "underscore" : "^1.8.3",
+    "feed-read" : "^0.0.1"
   }
 }
